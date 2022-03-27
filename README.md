@@ -30,7 +30,7 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 
-![Método UX](P1/Tabla_comparativa.png) 1.a Competitive Analysis
+1.a Competitive Analysis ![Método UX](P1/Tabla_comparativa.png) 
 -----
 
 >>> Hostel 4U: página web de Hostel 4U, que se encuentra en el casco antiguo de Granada. El Hostel es una antigua casa patio del siglo XVI que ha sido restaurada. Encontramos  información acerca del alojamiento y habitaciones y podemos observar que también se define como restaurante y cocktail bar en el que poder desconectar y tomar algo.
