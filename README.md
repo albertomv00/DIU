@@ -46,34 +46,56 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 >>> Tras realizar la comparación con otros hostel de distintas partes de España observamos que hostel4u es uno de los que menos opciones y facilidades nos prestan. A nuestro hostel le falta la implementación de poder pagar en varias monedas como tienen los otros dos que hemos comparado además vemos que hay otros con mayores opciones en cuanto al número de idiomas. Los otros dos tienen una mejor distribución de la información más intuitiva y fácil de llegar. En general las otras dos páginas son más completas ofreciendo más actividades sociales a realizar y teniendo una mayor accesibilidad a la hora de informar al usuario de las cualidades y las acciones a realizar en el hostel.
 
 
+1.b Hugo
 
-![Método UX](P1/persona1_hugo.png) 1.b Hugo
+
+
+![Método UX](P1/persona1_hugo.png) 
 -----
 
 >>>  La primera persona creada se llama Hugo y se trata de un chico joven de 30 años que reside en Madrid. Posee conocimientos medios en TIC, buen nivel de inglés y en un futuro le gustaría tener más tiempo libre para conocer nuevas amistades, aprender a esquiar y viajar para visitar distintas playas con su pareja. En un futuro no muy lejano le gustaría encontrar un trabajo donde poder teletrabajar y tener más tiempo libre.
 
-![Método UX](P1/Persona2_Marvin _Brooks.png) 1.b Marvin
+
+1.b Marvin
+
+
+
+
+![Método UX](P1/Persona2_Marvin _Brooks.png) 
 -----
 
 >>>  La segunda persona creada es Marvin Brooks un joven apasionado y extrovertido nacido en Londres que actualmente vive en Lyon,Francia.Trabaja como profesor particular y su estado civil es soltero. Se encuentra buscando experiencias nuevas como practicar nuevos deportes y conocer gente con la que compartir aficiones.
 
+1.c User Journey Map Hugo
 
 
-![Método UX](P1/mapa_hugo.png) 1.c User Journey Map Hugo
+
+
+![Método UX](P1/mapa_hugo.png) 
 ----
 
 
 >>> Hugo desea hacer un viaje con su pareja y amigos en las vacaciones de verano. Deciden finalmente ir a un Hostel de Granada porque les gustaría visitar sus playas. Encuentran fácilmente que pueden seleccionar habitaciones para hasta 3 y más personas, por lo que deciden reservar dos habitaciones. Sin embargo, tienen un problema de falta de información acerca de algún parking en el que dejar el coche y también acerca de las actividades que se realizan en el Hostel. Deciden ponerse en contacto para aclarar sus dudas y acaban finalizando la reserva, estando todos firmes y contentos con la elección.
 
-![Método UX](P1/journey_map_MarvinBrooks.png) 1.c User Journey Map Marvin
+
+1.c User Journey Map Marvin
+
+
+
+
+
+![Método UX](P1/journey_map_MarvinBrooks.png) 
 ----
 
 
 >>> Marvin está deseando hacer un viaje él solo, para practicar deporte y conocer gente nueva. Para ello comienza buscando un fecha que esté libre y le convenza el tiempo que hará.comienza por decidir el destino y escoge granda por el clima y la variedad de actividades pero a la hora de elegir el hostel le cuesta aunque por precio se acaba decidiendo por hostel4u. Cuando mira las actividades sociales en la página web se encuentra que apenas tiene actividades pero aun así decide seguir adelante. Tras eso busca de qué forma podría llegar al hostel y encuentra un autobús hasta la ciudad y después decide coger un uber hasta el hostel. Más tarde acaba reservando eligiendo la opción más barata.
 
+ 1.d Usability Review
+ 
+ 
+ 
 
-
-![Método UX](P1/Usability-review.xlsx) 1.d Usability Review
+![Método UX](P1/Usability-review.xlsx)
 ----
 >>> La puntuación final es: 73 (Good).
 
