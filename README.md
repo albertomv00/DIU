@@ -61,7 +61,7 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 
 
 
-![Método UX](P1/Persona2_Marvin _Brooks.png) 
+![Método UX](P1/Persona2_Marvin_Brooks.png) 
 -----
 
 >>>  La segunda persona creada es Marvin Brooks un joven apasionado y extrovertido nacido en Londres que actualmente vive en Lyon,Francia.Trabaja como profesor particular y su estado civil es soltero. Se encuentra buscando experiencias nuevas como practicar nuevos deportes y conocer gente con la que compartir aficiones.
