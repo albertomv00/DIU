@@ -29,6 +29,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
+
 ![Método UX](P1/Tabla_comparativa.png) 1.a Competitive Analysis
 -----
 
@@ -48,7 +49,7 @@ Tras realizar la comparación con otros hostel de distintas partes de España ob
 
 >>>  La primera persona creada se llama Hugo y se trata de un chico joven de 30 años que reside en Madrid. Posee conocimientos medios en TIC, buen nivel de inglés y en un futuro le gustaría tener más tiempo libre para conocer nuevas amistades, aprender a esquiar y viajar para visitar distintas playas con su pareja. En un futuro no muy lejano le gustaría encontrar un trabajo donde poder teletrabajar y tener más tiempo libre.
 
-![Método UX](P1/Persona2_Marvin _Brooks.png) Marvin
+(P1/persona1_hugo.png) Marvin
 -----
 
 >>>  La segunda persona creada es Marvin Brooks un joven apasionado y extrovertido nacido en Londres que actualmente vive en Lyon,Francia.Trabaja como profesor particular y su estado civil es soltero. Se encuentra buscando experiencias nuevas como practicar nuevos deportes y conocer gente con la que compartir aficiones.
