@@ -31,6 +31,8 @@ Miembros
 
 
 1.a Competitive Analysis
+
+
 ![Método UX](P1/Tabla_comparativa.png) 
 -----
 
