@@ -90,13 +90,15 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 
 >>> Marvin está deseando hacer un viaje él solo, para practicar deporte y conocer gente nueva. Para ello comienza buscando un fecha que esté libre y le convenza el tiempo que hará.comienza por decidir el destino y escoge granda por el clima y la variedad de actividades pero a la hora de elegir el hostel le cuesta aunque por precio se acaba decidiendo por hostel4u. Cuando mira las actividades sociales en la página web se encuentra que apenas tiene actividades pero aun así decide seguir adelante. Tras eso busca de qué forma podría llegar al hostel y encuentra un autobús hasta la ciudad y después decide coger un uber hasta el hostel. Más tarde acaba reservando eligiendo la opción más barata.
 
- 1.d Usability Review
+ 
  
  
  
 
-![Método UX](P1/Usability-review.xlsx)
+![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+>>> Excel en la carpeta P1/Usability-review.xlsx
+
 >>> La puntuación final es: 73 (Good).
 
 >>> Conclusión: Tras la reseña de usabilidad realizada evaluando los distintos puntos, la puntuación que ha obtenido la página ha sido de 73 esta nos indica que la usabilidad de la página es correcta pero mejorable. La información y las acciones que podemos realizar dentro de la página son claras e intuitivas aportando facilidades al usuario. Para mejorarla se podrían mejorar los errores que tiene a la hora de mostrar algunas fotos,  Implementar una barra de búsqueda, poner el mapa en una posición intuitiva. El mayor problema de la página web se encuentra en que son dos páginas web asociadas que a la hora de reservar te abre otra donde también se puede consultar la información del hostel lo cual hace que la experiencia de usuario no sea muy buena debido a que le genera un sensación de incertidumbre.
