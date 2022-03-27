@@ -29,23 +29,39 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](P1/Tabla_comprativa.png) 1.a Competitive Analysis
+![Método UX](P1/Tabla_comparativa.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Hostel 4U: página web de Hostel 4U, que se encuentra en el casco antiguo de Granada. El Hostel es una antigua casa patio del siglo XVI que ha sido restaurada. Encontramos  información acerca del alojamiento y habitaciones y podemos observar que también se define como restaurante y cocktail bar en el que poder desconectar y tomar algo.
 
-![Método UX](img/Persona.png) 1.b Persona
+Hostel Paralelo Barcelona: página web del Hostel Paralelo situado en pleno Barcelona, muy cercano a lugares emblemáticos como La Rambla, Montjuic y el paseo marítimo. Encontramos información acerca de las instalaciones y facilidades como taquillas, w-fi gratis, etc. así como varias maneras de contactar con ellos y todo ello a través de una interfaz peculiar formada por botones pulsables de gran tamaño para ir a las diferentes áreas de la página.
+
+Cats Hostel Madrid Sol: página web de Cats Hostel Madrid Sol, situado en pleno centro de Madrid. Encontramos información acerca de los tipos de habitaciones así como de los diferentes espacios de los que dispone, siendo destacado su chill-out de día/club de noche: 
+La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, donde se nos indica cómo llegar al Hostel de diferentes formas.
+
+Tras realizar la comparación con otros hostel de distintas partes de España observamos que hostel4u es uno de los que menos opciones y facilidades nos prestan. A nuestro hostel le falta la implementación de poder pagar en varias monedas como tienen los otros dos que hemos comparado además vemos que hay otros con mayores opciones en cuanto al número de idiomas. Los otros dos tienen una mejor distribución de la información más intuitiva y fácil de llegar. En general las otras dos páginas son más completas ofreciendo más actividades sociales a realizar y teniendo una mayor accesibilidad a la hora de informar al usuario de las cualidades y las acciones a realizar en el hostel.
+
+
+
+![Método UX](P1/persona1_hugo.png) 1.b Hugo
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>>  La primera persona creada se llama Hugo y se trata de un chico joven de 30 años que reside en Madrid. Posee conocimientos medios en TIC, buen nivel de inglés y en un futuro le gustaría tener más tiempo libre para conocer nuevas amistades, aprender a esquiar y viajar para visitar distintas playas con su pareja. En un futuro no muy lejano le gustaría encontrar un trabajo donde poder teletrabajar y tener más tiempo libre.
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](P1/Persona2_Marvin _Brooks.png) Marvin
+-----
+
+>>>  La segunda persona creada es Marvin Brooks un joven apasionado y extrovertido nacido en Londres que actualmente vive en Lyon,Francia.Trabaja como profesor particular y su estado civil es soltero. Se encuentra buscando experiencias nuevas como practicar nuevos deportes y conocer gente con la que compartir aficiones.
+
+
+
+![Método UX](P1/persona1_hugo.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](P1/persona1_hugo.png) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
