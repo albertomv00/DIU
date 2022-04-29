@@ -108,7 +108,7 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](P2/Ideacion_feedback_capture_grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
 
