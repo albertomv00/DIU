@@ -121,18 +121,28 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 >>> (150-200 caracteres)
 
 
-
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+ 2.b ScopeCanvas
+![Método UX](P2/scope_canvas.pdf)
 ----
->>> Propuesta de valor 
+>>> Crear nuevas actividades para los usuarios a realizar algunas dentro del hostel y otras
+fuera. Además de informar a los usuarios de estas actividades permitiéndoles ver cuando se
+organizan estas para permitirles saber cuándo deberían acudir al hostel para participar en
+ellas. Implementar un sistema de valoraciones para los clientes en el que puedan dejar su
+valoración con texto y un nivel de puntuación del 1 al 5 con estrellas, además los demás
+clientes puedan decir si esa valoración les resultó útil o no.
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+2.b Tasks analysis 
+
+![Método UX](P2/Analisis_de_tareas.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+ 2.c IA: Sitemap + Labelling 
+ 
+ 
+![Método UX](P2/Mapa_de_sitio.png)
 ----
 
 
@@ -142,8 +152,12 @@ Término | Significado
 | ------------- | -------
   Login¿?  | acceder a plataforma
 
+2.d Wireframes
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+
+![Método UX](P2/Boceto_1.png) 
+
+![Método UX](P2/Boceto_2.png) 
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
