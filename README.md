@@ -107,18 +107,13 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 
 ## Paso 2. UX Design  
 
+2.a Feedback Capture Grid / EMpathy map / POV
 
-![Método UX](P2/Ideacion_feedback_capture_grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](P2/Ideacion_feedback_capture_grid.png) 
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
