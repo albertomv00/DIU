@@ -122,7 +122,7 @@ La Cueva. Además encontramos un pequeño apartado, si bajamos en la página, do
 
 
  2.b ScopeCanvas
-![Método UX](P2/scope_canvas.pdf)
+![Método UX](P2/scope_canvas.png)
 ----
 >>> Crear nuevas actividades para los usuarios a realizar algunas dentro del hostel y otras
 fuera. Además de informar a los usuarios de estas actividades permitiéndoles ver cuando se
@@ -143,6 +143,7 @@ clientes puedan decir si esa valoración les resultó útil o no.
  
  
 ![Método UX](P2/Mapa_de_sitio.png)
+![Método UX](P2/labeling.png)
 ----
 
 
