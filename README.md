@@ -169,40 +169,83 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+3.a Moodboard
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](P3/moodboard.png) 
+
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> Esta es nuestra Landing page, es decir, la página promocional del proyecto, donde podemos ver en grande nuestro eslogan que deja clara la intención de este, además de una breve descripción de lo que podrán encontrar los clientes y ciertas imágenes descriptivas apoyando nuestra intención de mostrar los distintos tipos de actividades que podrán encontrar.
 
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+ 3.b Landing Page
+
+![Método UX](P3/landingpage.png) 
 ----
 
+>>> Esta es nuestra Landing page, es decir, la página promocional del proyecto, donde podemos ver en grande nuestro eslogan que deja clara la intención de este, además de una breve descripción de lo que podrán encontrar los clientes  y ciertas imágenes descriptivas apoyando nuestra intención de mostrar los distintos tipos de actividades que podrán encontrar.
 
->>> Plantear Landing Page 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+3.c Guidelines
+
+
+Logo
+
+![Método UX](P3/logo.png) 
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>>Para la realización del logo nos basamos en el original para no romper con el estilo de la página principal por ello lo cambiamos para que representase las actividades al aire libre que queríamos mostrar en nuestra propuesta de valor. El cambio consistió en añadir una montaña del mismo color debajo y un nuevo título para representar las actividades al aire libre. Usamos la herramienta GIMP y una resolución de 644x495.
 
-![Método UX](img/mockup.png)  3.d Mockup
+
+Paleta de colores
+
+![Método UX](P3/paleta.png) 
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>>Los colores que hemos elegido son una mezcla de los que ya había en la página original y dos más que hemos añadido.
+Los colores negro y dorado son para mantener el estilo de la pagina original para ello nos hemos decantado por los dos mas representativos y que componen el logo.
+Los colores blanco y verde los hemos incluido para darle una imagen más fresca que a su vez refleje paz para de esta forma presentar las actividades al aire libre en consonancia.
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+Iconografía
+
+![Método UX](P3/iconos.png) 
+----
+
+>>>Los iconos los hemos seleccionado de la página ionicons escogiendo el estilo Regular ya que creemos que es el que mejor se adapta a nuestra página por el diseño de fácil visibilidad que nos aporta. Aquí vemos algunos ejemplos de los iconos que hemos escogido:
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Tipografías
+
+>>> Hemos seleccionado tres fuentes distintas, Arial, Britannic Bold y Tw Cen MT Condensed Extra Bold. Las dos primeras mencionadas las usaremos para todo el contenido en general de la página, mientras que la tercera será usada únicamente en el logo de la misma. Pensamos que son fuentes sencillas, legibles y agradables a la vista, además de funcionar bien con el diseño que deseábamos darle a nuestra página.
+
+
+Patrones de diseño
+
+
+ 3.d Mockup
+
+![Método UX](P3/prototipo_3.png) 
+----
+
+![Método UX](P3/prototipo.png) 
+----
+
+![Método UX](P3/prototipo_1.png) 
+----
+
+![Método UX](P3/prototipo_2.png) 
+----
+
+>>> Para acceder al prototipo interactivo se puede acceder mediante este link: https://cloud.protopie.io/p/27c0188b0a 
+
+
+3.e ¿My UX-Case Study?
+
+
+
+>>> Para publicar el caso de estudio hemos usado github para publicarlo de manera sencilla y accesible.
 
 
 ## Paso 4. Evaluación 
