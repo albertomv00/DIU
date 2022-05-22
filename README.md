@@ -223,6 +223,11 @@ Tipografías
 
 Patrones de diseño
 
+>>>En cuanto a los patrones de diseño hemos decidido usar para el prototipado la herramienta ProtoPie, que es una herramienta que nos permite aplicar el diseño deseado de forma cómoda y provee de diversas herramientas, formatos, iconos, etc. para hacer la aplicación sencilla y legible para todo tipo de usuarios, aunque no estén acostumbrados a usar este tipo de aplicaciones.
+Hemos usado unos patrones muy sencillos para permitir que el uso de la aplicación sea lo más intuitivo posible para el usuario. Se ha utilizado una distribución simétrica y hacia abajo de la información a mostrar, separando claramente la parte de las actividades, de las valoraciones de los usuarios sobre estas y el Hostel. También hemos hecho uso de un patrón de valoraciones con estrellas para su uso por parte del cliente. Además hemos añadido en la barra de abajo un icono muy intuitivo de una casa, que como se puede intuir, llevará al usuario a la pantalla de inicio. Por último, cabe destacar el patrón de transiciones entre distintas pantallas, puesto que si se accede a algo se produce una transición de derecha a izquierda y si volvemos hacia atrás ocurre al revés.
+
+
+
 
  3.d Mockup
 
