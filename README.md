@@ -5,14 +5,17 @@ Grupo: DIU1_01AABB.  Curso: 2021/22
 Updated: 11/2/2022
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Hostel 4U Activities
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Crear nuevas actividades para los usuarios a realizar algunas dentro  del hostel y otras fuera. Además de informar a los usuarios de estas actividades permitiéndoles ver cuando se organizan estas para permitirles saber cuándo deberían acudir al hostel para participar en ellas. Implementar un sistema de valoraciones para los clientes en el que puedan dejar su valoración con texto y un nivel de puntuación del 1 al 5 con estrellas, además los demás clientes puedan decir si esa valoración les resultó útil o no.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+
+![Método UX](P3/logo.png) 
+
 
 Miembros
  * :bust_in_silhouette:   Alberto Martos Vela     :octocat:     
@@ -22,7 +25,7 @@ Miembros
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
+
 
 
 # Proceso de Diseño 
