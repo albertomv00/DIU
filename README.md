@@ -200,7 +200,7 @@ Logo
 
 Paleta de colores
 
-![Método UX](P3/paleta.png) 
+![Método UX](P3/paleta_colores.png) 
 ----
 
 >>>Los colores que hemos elegido son una mezcla de los que ya había en la página original y dos más que hemos añadido.
