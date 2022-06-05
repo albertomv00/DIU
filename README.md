@@ -272,57 +272,37 @@ https://github.com/adelatorresaavedra/DIU
 >>>En este apartado vamos a proceder a la creación de cuatro perfiles diferentes de personas que podrían interactuar con nuestra web y la de los compañeros. Es importante que no sean demasiado similares pues así podremos observar mejor cómo varía su ‘SUS score’ dependiendo de su ocupación, su perfil y sobre todo de su experiencia en internet y las distintas plataformas que suelen usar.
  
 
- 
+ ![Método UX](P4/personas.png)
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 22   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/albertomv00/DIU/blob/master/P4/Cuestionario_SUS.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![Método UX](P4/image1.png)
+
+>>> Viendo los resultados podemos ver resultados similares en cuanto términos de usabilidad, las diferencias las observamos en los distintos perfiles ya que al tener distinta experiencia usando nuevas tecnologías vemos dificultades en  los usuarios con un nivel más bajo y mayor facilidad en los usuarios con mayor experiencia. Es por esto que a pesar de que la puntuación de A es mayor podemos decir que son muy similares debido a que sus usuarios tienen distinto nivel de experiencia TIC.
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> [Report usabilidad](https://github.com/albertomv00/DIU/blob/master/P4/Usability.pdf)
 
 
 
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
+>>> Conclusión
+La web cumple con su objetivo de presentar las distintas actividades que podemos realizar en Granada. Es un prototipo con un diseño legible, claro y bastante intuitivo, sobre todo para personas con una experiencia en internet media/alta, aunque es cierto, que personas con pocos conocimientos en internet pueden perderse en la búsqueda de cierta información. Posee un diseño llamativo y bien estructurado, por eso ronda el 80 de puntuación, ya que la mayoría de funcionalidades están implementadas, aunque sí hay ciertas que aún no lo están por lo que podemos decir que no termina de ser un prototipo final.
+Como puntos a mejorar se podría aportar un feedback de en qué página nos encontramos ya que si estamos en el home y le damos al botón home no hace nada podría actualizarse la página haciendo ver que nos encontramos en el home. También se podría ampliar el rango de clic de los botones para mejorar la navegabilidad de la página ya que a veces si el rango donde funciona el clic es muy reducido puede empeorar la sensación del usuario.
 
 
 
-## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
