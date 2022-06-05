@@ -260,18 +260,23 @@ Hemos usado unos patrones muy sencillos para permitir que el uso de la aplicaci�
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Como asignación para el caso B, en primera instancia se nos asignó el grupo 11, pero al no tener enlace al github, ni ningún reporte acerca de su práctica, finalmente nos fue asignado el grupo 12 llamado DoubleAI,  cuyo enlace es:
+
+https://github.com/adelatorresaavedra/DIU
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>>En este apartado vamos a proceder a la creación de cuatro perfiles diferentes de personas que podrían interactuar con nuestra web y la de los compañeros. Es importante que no sean demasiado similares pues así podremos observar mejor cómo varía su ‘SUS score’ dependiendo de su ocupación, su perfil y sobre todo de su experiencia en internet y las distintas plataformas que suelen usar.
+ 
+
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User1's name  | H / 22   | Estudiante  | Media       | Introvertido | Web.       | A 
 | User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
 | User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
